@@ -1,0 +1,1 @@
+echo BENCH-OK
